@@ -57,3 +57,5 @@ coverage/
 *.tar.gz
 *.lock
 *.log
+
+debugfile
